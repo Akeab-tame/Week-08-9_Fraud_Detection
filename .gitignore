@@ -1,0 +1,8 @@
+# Environment
+venv
+# test notebooks 
+notebooks/EDA1.ipynb
+#Available
+
+# Datasets
+data/*.csv
