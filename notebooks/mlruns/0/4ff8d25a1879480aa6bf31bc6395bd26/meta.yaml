@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Hello/Desktop/Html%20Tutorial/Document/KAIM%20Courses/Week-08-9_Adey_Innovations/notebooks/mlruns/0/4ff8d25a1879480aa6bf31bc6395bd26/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ff8d25a1879480aa6bf31bc6395bd26
+run_name: Decision Tree
+run_uuid: 4ff8d25a1879480aa6bf31bc6395bd26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729351886624
+status: 1
+tags: []
+user_id: Hello
