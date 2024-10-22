@@ -1,8 +1,11 @@
 # Environment
 venv
+tensorflow-2.17.0-cp312-cp312-win_amd64 (1).whl
 # test notebooks 
 notebooks/EDA1.ipynb
+notebooks/mlruns
 #Available
 
 # Datasets
 data/*.csv
+
