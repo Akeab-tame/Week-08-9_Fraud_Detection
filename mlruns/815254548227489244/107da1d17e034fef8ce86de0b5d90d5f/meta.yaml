@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/815254548227489244/107da1d17e034fef8ce86de0b5d90d5f/artifacts
+deleted_time: 1729597117154
+end_time: 1729595921594
+entry_point_name: ''
+experiment_id: '815254548227489244'
+lifecycle_stage: deleted
+run_id: 107da1d17e034fef8ce86de0b5d90d5f
+run_name: melodic-slug-485
+run_uuid: 107da1d17e034fef8ce86de0b5d90d5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729595578220
+status: 4
+tags: []
+user_id: Hello

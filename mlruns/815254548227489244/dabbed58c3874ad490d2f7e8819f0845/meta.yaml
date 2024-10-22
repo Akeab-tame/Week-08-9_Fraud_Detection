@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/815254548227489244/dabbed58c3874ad490d2f7e8819f0845/artifacts
+end_time: 1729596391668
+entry_point_name: ''
+experiment_id: '815254548227489244'
+lifecycle_stage: active
+run_id: dabbed58c3874ad490d2f7e8819f0845
+run_name: resilient-cod-726
+run_uuid: dabbed58c3874ad490d2f7e8819f0845
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729596041571
+status: 3
+tags: []
+user_id: Hello

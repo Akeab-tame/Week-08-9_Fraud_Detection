@@ -1,0 +1,8 @@
+### Convolutional Neural Network (CNN)
+**A Convolutional Neural Network (CNN)** is a specialized deep learning model primarily used for processing grid-like data, such as images. It is designed to automatically and adaptively learn spatial hierarchies of features through convolutional layers. CNNs are made up of three key components:
+
+**Convolutional layers:** These layers apply convolutional filters (kernels) to input data, detecting features like edges, textures, and shapes.
+**Pooling layers:** These reduce the dimensionality of the data, focusing on the most important features while maintaining spatial structure.
+**Fully connected layers:** At the end, these layers connect every neuron from the previous layer to the output, typically used for classification.
+
+CNNs are widely used in image recognition, object detection, and computer vision tasks.

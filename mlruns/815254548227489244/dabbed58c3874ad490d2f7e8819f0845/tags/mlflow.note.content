@@ -1,0 +1,7 @@
+### Long Short-Term Memory (LSTM)
+An LSTM is a specialized version of RNNs designed to handle long-term dependencies more effectively. It overcomes the vanishing gradient problem by using a memory cell to store information across time steps. LSTMs consist of three key gates:
+
+**Input gate:** Determines what new information should be added to the memory cell.
+**Forget gate:** Decides what information should be discarded from the memory.
+**Output gate:** Controls how much information from the memory cell should be used to compute the output.
+Due to their ability to remember long sequences, LSTMs are commonly used in tasks such as language modeling, machine translation, and video analysis.
