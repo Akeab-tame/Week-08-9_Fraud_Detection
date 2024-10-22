@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Hello/Desktop/Html%20Tutorial/Document/KAIM%20Courses/Week-08-9_Adey_Innovations/notebooks/mlruns/0/920f2f8f3be84eb0bdc5a7ed3a3226f1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 920f2f8f3be84eb0bdc5a7ed3a3226f1
+run_name: Random Forest
+run_uuid: 920f2f8f3be84eb0bdc5a7ed3a3226f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729592014568
+status: 1
+tags: []
+user_id: Hello

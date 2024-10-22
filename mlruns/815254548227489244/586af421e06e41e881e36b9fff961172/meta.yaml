@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Hello/Desktop/Html%20Tutorial/Document/KAIM%20Courses/Week-08-9_Adey_Innovations/notebooks/mlruns/0/586af421e06e41e881e36b9fff961172/artifacts
+end_time: 1729578805658
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 586af421e06e41e881e36b9fff961172
+run_name: Logistic Regression
+run_uuid: 586af421e06e41e881e36b9fff961172
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729578786660
+status: 3
+tags: []
+user_id: Hello
