@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/393830309254537149/f09c9cd28e7b494c9560c2415a8f22fe/artifacts
+end_time: 1729610104554
+entry_point_name: ''
+experiment_id: '393830309254537149'
+lifecycle_stage: active
+run_id: f09c9cd28e7b494c9560c2415a8f22fe
+run_name: Credit Card Data - CNN
+run_uuid: f09c9cd28e7b494c9560c2415a8f22fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729609905755
+status: 3
+tags: []
+user_id: Hello

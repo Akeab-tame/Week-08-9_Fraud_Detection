@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/393830309254537149/a5d73960e3cc445ebf7a1ecdf65f3416/artifacts
+end_time: 1729609037083
+entry_point_name: ''
+experiment_id: '393830309254537149'
+lifecycle_stage: active
+run_id: a5d73960e3cc445ebf7a1ecdf65f3416
+run_name: Credit Card Data - RNN
+run_uuid: a5d73960e3cc445ebf7a1ecdf65f3416
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729608801918
+status: 3
+tags: []
+user_id: Hello

@@ -4,7 +4,7 @@ entry_point_name: ''
 experiment_id: '815254548227489244'
 lifecycle_stage: active
 run_id: 25c7d379d9504e83830cbdcf5a11e42f
-run_name: luxuriant-doe-670
+run_name: Fraud Data - CNN
 run_uuid: 25c7d379d9504e83830cbdcf5a11e42f
 source_name: ''
 source_type: 4

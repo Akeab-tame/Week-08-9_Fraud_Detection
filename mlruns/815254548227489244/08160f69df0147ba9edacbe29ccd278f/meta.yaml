@@ -4,7 +4,7 @@ entry_point_name: ''
 experiment_id: '815254548227489244'
 lifecycle_stage: active
 run_id: 08160f69df0147ba9edacbe29ccd278f
-run_name: mysterious-flea-914
+run_name: Fraud Data - RNN
 run_uuid: 08160f69df0147ba9edacbe29ccd278f
 source_name: ''
 source_type: 4

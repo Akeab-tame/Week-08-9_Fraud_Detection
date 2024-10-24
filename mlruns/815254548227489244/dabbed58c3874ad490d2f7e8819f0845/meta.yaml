@@ -4,7 +4,7 @@ entry_point_name: ''
 experiment_id: '815254548227489244'
 lifecycle_stage: active
 run_id: dabbed58c3874ad490d2f7e8819f0845
-run_name: resilient-cod-726
+run_name: Fraud Data - LSTM
 run_uuid: dabbed58c3874ad490d2f7e8819f0845
 source_name: ''
 source_type: 4

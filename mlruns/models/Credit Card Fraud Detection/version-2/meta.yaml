@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1729610671036
+current_stage: None
+description: ''
+last_updated_timestamp: 1729610671036
+name: Credit Card Fraud Detection
+run_id: e3afd85ebece49028d39d492485bd42b
+run_link: ''
+source: mlflow-artifacts:/393830309254537149/e3afd85ebece49028d39d492485bd42b/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/393830309254537149/e3afd85ebece49028d39d492485bd42b/artifacts/model
+user_id: null
+version: 2

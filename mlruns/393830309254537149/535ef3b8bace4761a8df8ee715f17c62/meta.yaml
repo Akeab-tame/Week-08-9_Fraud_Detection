@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/393830309254537149/535ef3b8bace4761a8df8ee715f17c62/artifacts
+deleted_time: 1729610093937
+end_time: 1729609781889
+entry_point_name: ''
+experiment_id: '393830309254537149'
+lifecycle_stage: deleted
+run_id: 535ef3b8bace4761a8df8ee715f17c62
+run_name: learned-mare-600
+run_uuid: 535ef3b8bace4761a8df8ee715f17c62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729609781552
+status: 4
+tags: []
+user_id: Hello
